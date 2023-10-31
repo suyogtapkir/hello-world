@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <body>
@@ -7,5 +6,6 @@
 <p>My first paragraph.</p>
 <p>Automatic Build Trigger</P>
 <p>This is from docker automcatic build test1</P>
+<p>another test</P>
 </body>
 </html>
